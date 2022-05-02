@@ -1,0 +1,33 @@
+<rdf:RDF 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about=>
+<dc:title>A history of China</dc:title>
+<dc:creator>Rossabi, Morris</dc:creator>
+<dc:publisher>John Wiley \& Sons</dc:publisher>
+<dc:date>2021</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.degruyter.com/document/doi/10.1525/9780520313415/html">
+<dc:title>A history of China</dc:title>
+<dc:creator>Eberhard, Wolfram</dc:creator>
+<dc:publisher>University of California Press</dc:publisher>
+<dc:date>2020</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:about=>
+<dc:title>A history of China</dc:title>
+<dc:creator>Rossabi, Morris</dc:creator>
+<dc:publisher>John Wiley \& Sons</dc:publisher>
+<dc:date>2021</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:about=>
+<dc:title>China: A macro history</dc:title>
+<dc:creator>Huang, Ray</dc:creator>
+<dc:publisher>Routledge</dc:publisher>
+<dc:date>2015</dc:date>
+</rdf:Description>
+
+</rdf:RDF>

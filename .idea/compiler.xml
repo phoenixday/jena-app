@@ -9,5 +9,8 @@
         <module name="jena-app" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jena-app" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
