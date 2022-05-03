@@ -2,7 +2,7 @@
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
 xmlns:dc="http://purl.org/dc/elements/1.1/">
 
-<rdf:Description rdf:about="https://books.google.com/books?hl=uk&lr=&id=2UkgEAAAQBAJ&oi=fnd&pg=PR1&dq=history+of+China&ots=w8Abz0VsYN&sig=iHO6flN-QjPpUjTvdU15nJpfv3s">
+<rdf:Description rdf:about="https://www.goodreads.com/book/show/1826278.A_History_of_China">
 <dc:title>A history of China</dc:title>
 <dc:creator>Rossabi, Morris</dc:creator>
 <dc:publisher>John Wiley and Sons</dc:publisher>
@@ -16,14 +16,14 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:date>2020</dc:date>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://books.google.com/books?hl=uk&lr=&id=2nNXNA_10qAC&oi=fnd&pg=PR9&dq=history+of+China&ots=8r2oI4ssjA&sig=By2B8N-t7nSqD20FCZUiFcAd46w">
+<rdf:Description rdf:about="https://www.amazon.com/Discovering-History-China-Historical-Weatherhead/dp/0231151934">
 <dc:title>Discovering history in China: American historical writing on the recent Chinese past</dc:title>
 <dc:creator>Cohen, Paul A</dc:creator>
 <dc:publisher>Columbia University Press</dc:publisher>
 <dc:date>2010</dc:date>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781315705835&type=googlepdf">
+<rdf:Description rdf:about="https://www.routledge.com/China-A-Macro-History/Huang/p/book/9780873324533">
 <dc:title>China: A macro history</dc:title>
 <dc:creator>Huang, Ray</dc:creator>
 <dc:publisher>Routledge</dc:publisher>
