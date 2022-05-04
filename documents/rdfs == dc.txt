@@ -3,4 +3,42 @@ rdfs:label	        dc:title
 rdf:type	        dc:type
 rdfs:isDefinedBy	dc:relation
 rdfs:seeAlso	    dc:relation
-rdfs:comment	    dc:description
+rdfs:comment	    dc:
+
+ex:hasSinger rdfs:subPropertyOf ex:hasPerformer .
+This means that if a subject and object are related by the ex:hasSinger predicate, they must also be related by the ex:hasPerformer predicate.
+
+Two important facts about any property are its domain and range, which constrain the resources that can be employed in subject and object position when the property is used as a predicate; these can also be defined using RDFS resources, as follows:
+ex:hasSinger rdfs:domain mo:Performance .
+ex:hasSinger rdfs:range foaf:Agent .
+This means that any resource occurring as subject of ex:hasSinger must belong to the class mo:Performance (only performances have singers), while any resource occurring as object of ex:hasSinger must belong to the class foaf:Agent (only agents are singers).
+
+RDFS entailment rules
+The RDFS entailment regime is defined by thirteen rules, which are listed here. In brief, their import is as follows:
+rdfs1
+Allocates a blank node to a literal, and classifies this node as a member of the class rdfs:Literal.
+rdfs2
+Uses a rdfs:domain statement to classify a resource found in subject position (in a triple containing the relevant property as predicate).
+rdfs3
+Uses a rdfs:range statement to classify a resource found in object position (in a triple containing the relevant property as predicate).
+rdfs4
+Classifies a resource found in subject or object position in a triple as belonging to the class rdfs:Resource.
+rdfs5
+Inference based on the transitivity of rdfs:subPropertyOf.
+rdfs6
+Infers that any resource classified as a property is a sub-property of itself.
+rdfs7
+Uses a rdfs:subPropertyOf statement to infer that two resources are related by a property P if they are related by a subproperty of P.
+rdfs8
+Infers that any resource classified as a class is a subclass of rdfs:Resource.
+rdfs9
+Infers that a resource belongs to a class if it belongs to its subclass.
+rdfs10
+Infers that any class is a subclass of itself.
+rdfs11
+Uses the transitivity of rdfs:subClassOf to infer that the subclass of a class C is a subclass of the superclass of C.
+rdfs12
+Infers that any resource belonging to rdfs:ContainerMembershipProperty is a subproperty of rdfs:member.
+rdfs13
+Infers that any resource belonging to rdfs:Datatype is a subclass of rdfs:Literal.
+In what follows, we look more closely at how these RDFS resources and their associated rules can support inferences when information is retrieved from a dataset.
