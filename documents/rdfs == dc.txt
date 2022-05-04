@@ -1,0 +1,6 @@
+-- rdfs:subPropertyOf -->
+rdfs:label	        dc:title
+rdf:type	        dc:type
+rdfs:isDefinedBy	dc:relation
+rdfs:seeAlso	    dc:relation
+rdfs:comment	    dc:description

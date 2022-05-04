@@ -1,33 +1,57 @@
 <rdf:RDF 
-xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
-xmlns:dc="http://purl.org/dc/elements/1.1/">
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<!-- declaring my own property dc:myabstract-->
+<rdf:Description rdf:about="http://purl.org/dc/terms/myabstract">
+<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/description"/>
+</rdf:Description>
 
 <rdf:Description rdf:about="https://www.goodreads.com/book/show/1826278.A_History_of_China">
 <dc:title>A history of China</dc:title>
 <dc:creator>Rossabi, Morris</dc:creator>
 <dc:publisher>John Wiley and Sons</dc:publisher>
-<dc:date>2021</dc:date>
+<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2021</dc:date>
+<dc:language>en</dc:language>
+<dc:myabstract>My abstract</dc:myabstract>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.amazon.com/Military-History-China-David-Graff/dp/0813339901">
+<dc:title>A military history of China</dc:title>
+<!-- using rdf:Bag-->
+<dc:creator>
+<rdf:Bag>
+<rdf:li>Graff, David Andrew</rdf:li>
+<rdf:li>Higham, Robin</rdf:li>
+<rdf:li>Rossabi, Morris</rdf:li>
+</rdf:Bag>
+</dc:creator>
+<dc:publisher>University Press of Kentucky</dc:publisher>
+<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</dc:date>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://www.degruyter.com/document/doi/10.1525/9780520313415/html">
 <dc:title>A history of China</dc:title>
 <dc:creator>Eberhard, Wolfram</dc:creator>
 <dc:publisher>University of California Press</dc:publisher>
-<dc:date>2020</dc:date>
+<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</dc:date>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://www.amazon.com/Discovering-History-China-Historical-Weatherhead/dp/0231151934">
 <dc:title>Discovering history in China: American historical writing on the recent Chinese past</dc:title>
 <dc:creator>Cohen, Paul A</dc:creator>
 <dc:publisher>Columbia University Press</dc:publisher>
-<dc:date>2010</dc:date>
+<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</dc:date>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://www.routledge.com/China-A-Macro-History/Huang/p/book/9780873324533">
 <dc:title>China: A macro history</dc:title>
 <dc:creator>Huang, Ray</dc:creator>
 <dc:publisher>Routledge</dc:publisher>
-<dc:date>2015</dc:date>
+<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</dc:date>
 </rdf:Description>
 
 </rdf:RDF>
