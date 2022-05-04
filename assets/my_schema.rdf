@@ -1,0 +1,44 @@
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:dcmi="http://purl.org/dc/terms/DCMIType"
+xmlns:myroom="https://www.my-room.com/">
+
+<!-- declaring my own property dcterms:myabstract-->
+<rdf:Description rdf:about="http://purl.org/dc/terms/myabstract">
+<dc:title>My abstract</dc:title>
+<rdfs:subPropertyOf rdf:resource="http://purl.org/dc/elements/1.1/description"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.my-room.com/library-first-bookshelf">
+<dc:title>My library: first bookshelf</dc:title>
+<dc:isPartOf rdf:resource="https://www.my-room.com/library"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.my-room.com/library-second-bookshelf">
+<dc:title>My library: second bookshelf</dc:title>
+<dc:isPartOf rdf:resource="https://www.my-room.com/library"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.my-room.com/library">
+<dc:title>My library</dc:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.my-room.com/war-book">
+<dc:title>A book about war history</dc:title>
+<rdfs:subClassOf rdf:resource="https://www.my-room.com/book" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.my-room.com/economics-book">
+<dc:title>A book about economics history</dc:title>
+<rdfs:subClassOf rdf:resource="https://www.my-room.com/book" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.my-room.com/book">
+<dc:title>Just a book</dc:title>
+</rdf:Description>
+
+</rdf:RDF>

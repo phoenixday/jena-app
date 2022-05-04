@@ -1,0 +1,28 @@
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:dcmi="http://purl.org/dc/terms/DCMIType"
+xmlns:eg="http://example.org/">
+
+  <rdf:Description rdf:about="http://example.org/mum">
+    <rdfs:subPropertyOf rdf:resource="http://example.org/parent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/parent">
+    <rdfs:range  rdf:resource="http://example.org/Person"/>
+    <rdfs:domain rdf:resource="http://example.org/Person"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/age">
+    <rdfs:range rdf:resource="xsd:integer" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/colin">
+        <eg:mum rdf:resource="http://example.org/rosy" />
+        <eg:age>13</eg:age>
+    </rdf:Description>
+
+</rdf:RDF>
