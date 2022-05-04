@@ -43,7 +43,6 @@ So this is an example of inference.
 <dc:creator>Eberhard, Wolfram</dc:creator>
 <dc:publisher>University of California Press</dc:publisher>
 <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</dc:date>
-<dcterms:isPartOf rdf:resource="https://www.my-room.com/library-second-bookshelf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://www.amazon.com/Discovering-History-China-Historical-Weatherhead/dp/0231151934">
