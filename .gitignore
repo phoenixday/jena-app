@@ -8,3 +8,5 @@ jena-app.iml
 /view/target/
 /view/view.iml
 /.github/
+/ontmalizer/ontmalizer.iml
+/ontmalizer/target/
