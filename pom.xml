@@ -16,6 +16,5 @@
     <module>model</module>
     <module>view</module>
     <module>controller</module>
-    <module>ontmalizer</module>
   </modules>
 </project>
