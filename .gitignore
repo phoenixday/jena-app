@@ -1,3 +1,10 @@
-/.idea/*
+/.idea/
 jena-app.iml
 /target/
+/model/target/
+/model/model.iml
+/controller/target/
+/controller/controller.iml
+/view/target/
+/view/view.iml
+/.github/

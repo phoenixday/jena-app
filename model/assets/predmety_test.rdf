@@ -1,0 +1,2410 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns="http://www.openarchives.org/OAI/2.0/#"
+    xmlns:dtype="http://www.srdc.com.tr/ontmalizer#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="http://www.srdc.com.tr/ontmalizer/instance">
+  <OAI-PMH rdf:ID="INS6339467_OAI-PMH_1">
+    <ListRecords>
+      <ListRecordsType rdf:ID="INS6339467_ListRecordsType_1">
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_27">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_27"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_27">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:SI</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_24">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_24"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_24">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:NADOB</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_5">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_5"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_5">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_52">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_52"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_52">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_60">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_60"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_60">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TE</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_25">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_25"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_25">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:NADOB</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_18">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_18"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_18">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_51">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_51"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_51">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_61">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_61"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_61">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_10">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_10"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_10">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_78">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_78"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_78">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_86">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_86"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_86">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_17">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_17"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_17">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <resumptionToken>
+          <resumptionTokenType rdf:ID="INS6339467_resumptionTokenType_1">
+            <cursor rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+            >100</cursor>
+            <completeListSize rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger"
+            >308</completeListSize>
+          </resumptionTokenType>
+        </resumptionToken>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_77">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_77"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_77">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-18T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_87">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_87"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_87">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_36">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_36"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_36">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_44">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_44"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_44">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_72">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_72"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_72">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-12-15T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_93">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_93"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_93">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-06-30T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_68">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_68"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_68">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-06-02T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_35">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_35"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_35">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-16T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_45">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_45"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_45">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_96">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_96"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_96">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TI:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TI</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-06-30T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_28">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_28"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_28">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-03-19T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_38">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_38"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_38">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_7">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_7"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_7">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_71">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_71"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_71">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-06-03T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_6">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_6"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_6">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_59">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_59"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_59">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_69">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_69"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_69">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-06-02T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_30">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_30"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_30">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-03-19T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_29">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_29"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_29">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-03-19T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_95">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_95"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_95">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-06-30T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_100">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_100"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_100">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-07-01T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_54">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_54"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_54">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_62">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_62"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_62">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_53">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_53"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_53">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_63">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_63"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_63">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_12">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_12"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_12">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:NADOB</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_88">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_88"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_88">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_20">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_20"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_20">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:BI</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_19">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_19"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_19">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:NADOB</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_1">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_1"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_1">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ozdob</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_80">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_80"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_80">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_11">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_11"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_11">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_21">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_21"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_21">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_79">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_79"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_79">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_89">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_89"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_89">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_14">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_14"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_14">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_46">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_46"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_46">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_81">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_81"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_81">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_74">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_74"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_74">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-18T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_82">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_82"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_82">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_37">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_37"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_37">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_47">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_47"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_47">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_98">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_98"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_98">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TI:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TI</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-07-01T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_9">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_9"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_9">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_73">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_73"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_73">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-18T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_83">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_83"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_83">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_90">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_90"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_90">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_32">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_32"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_32">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:BI</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-03-25T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_40">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_40"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_40">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_97">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_97"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_97">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-07-01T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_39">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_39"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_39">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_8">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_8"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_8">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_56">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_56"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_56">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_64">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_64"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_64">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-29T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_31">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_31"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_31">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:NADOB</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-03-22T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_41">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_41"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_41">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_2">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_2"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_2">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ozdob</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_55">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_55"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_55">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_65">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_65"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_65">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-29T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_22">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_22"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_22">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:NADOB</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_3">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_3"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_3">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ozdob</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_50">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_50"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_50">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_13">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_13"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_13">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_23">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_23"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_23">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ozdob</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_16">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_16"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_16">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:NADOB</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_48">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_48"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_48">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_76">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_76"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_76">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-18T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_84">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_84"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_84">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_15">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_15"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_15">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ostat</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_49">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_49"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_49">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_75">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_75"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_75">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-18T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_85">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_85"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_85">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_92">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_92"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_92">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_34">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_34"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_34">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-12T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_42">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_42"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_42">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_99">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_99"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_99">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-07-01T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_58">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_58"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_58">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_70">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_70"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_70">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-06-02T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_91">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_91"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_91">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-05-27T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_66">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_66"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_66">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-29T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_33">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_33"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_33">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:UR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-12T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_43">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_43"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_43">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_94">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_94"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_94">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR:DIV</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2:TR</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2021-06-30T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_26">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_26"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_26">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ozdob</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_4">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_4"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_4">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A:ozdob</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1:A</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:1</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-01-13T23:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_57">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_57"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_57">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-04-23T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+        <record>
+          <recordType rdf:ID="INS6339467_recordType_67">
+            <metadata>
+              <metadataType rdf:ID="INS6339467_metadataType_67"/>
+            </metadata>
+            <header>
+              <headerType rdf:ID="INS6339467_headerType_67">
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S:2</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu:S</setSpec>
+                <setSpec rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+                >publikacePredmetu</setSpec>
+                <datestamp rdf:datatype="http://www.openarchives.org/OAI/2.0/#UTCdatetimeTypeDatatype"
+                >2020-05-19T22:00:00Z</datestamp>
+                <identifier rdf:datatype="http://www.openarchives.org/OAI/2.0/#identifierTypeDatatype"
+                >ndf</identifier>
+              </headerType>
+            </header>
+          </recordType>
+        </record>
+      </ListRecordsType>
+    </ListRecords>
+    <request>
+      <requestType rdf:ID="INS6339467_requestType_1">
+        <verb rdf:datatype="http://www.openarchives.org/OAI/2.0/#verbTypeDatatype"
+        >ListRecords</verb>
+        <set rdf:datatype="http://www.openarchives.org/OAI/2.0/#setSpecTypeDatatype"
+        >publikacePredmetu</set>
+        <resumptionToken>metadataPrefix~axmpr!set~publikacePredmetu!nextPage~1</resumptionToken>
+        <metadataPrefix rdf:datatype="http://www.openarchives.org/OAI/2.0/#metadataPrefixTypeDatatype"
+        >axmpr</metadataPrefix>
+      </requestType>
+    </request>
+    <responseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-05T13:26:46Z</responseDate>
+  </OAI-PMH>
+</rdf:RDF>
