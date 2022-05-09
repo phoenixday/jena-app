@@ -1,8 +1,41 @@
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<!-- added targetNamespace and xmlns, element axmpr-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://api.museion.cz/schema/axmpr" xmlns="https://api.museion.cz/schema/axmpr">
     <xs:annotation>
         <xs:documentation>Package pro generování XML schématu axmpr verze 1.0</xs:documentation>
     </xs:annotation>
-    <xs:element name="Adresa" type="Adresa"/>
+    <xs:element name="axmpr" type="AXMPR" />
+    <xs:complexType name="AXMPR">
+        <xs:sequence>
+            <xs:element name="Adresa" type="Adresa"/>
+            <xs:element name="DalsiJmenoOsoby" type="DalsiJmenoOsoby"/>
+            <xs:element name="Datace" type="Datace"/>
+            <xs:element name="DataceNazvemPublic" type="DataceNazvemPublic"/>
+            <xs:element name="Fond" type="Fond"/>
+            <xs:element name="Kontakt" type="Kontakt"/>
+            <xs:element name="KontextovyDokument" type="KontextovyDokument"/>
+            <xs:element name="LokalitaPublic" type="LokalitaPublic"/>
+            <xs:element name="MaterialPublic" type="MaterialPublic"/>
+            <xs:element name="Obor" type="Obor"/>
+            <xs:element name="Podsbirka" type="Podsbirka"/>
+            <xs:element name="Podskupina1" type="Podskupina1"/>
+            <xs:element name="Podskupina2" type="Podskupina2"/>
+            <xs:element name="Podskupina3" type="Podskupina3"/>
+            <xs:element name="PublikacePredmetu" type="PublikacePredmetu"/>
+            <xs:element name="PublikaceTBiologie" type="PublikaceTBiologie"/>
+            <xs:element name="PublikaceTFotofrafie" type="PublikaceTFotofrafie"/>
+            <xs:element name="PublikaceTNumismatika" type="PublikaceTNumismatika"/>
+            <xs:element name="PublikaceTVytvarneUmeni" type="PublikaceTVytvarneUmeni"/>
+            <xs:element name="Role" type="Role"/>
+            <xs:element name="RoleOsoby" type="RoleOsoby"/>
+            <xs:element name="Sbirka" type="Sbirka"/>
+            <xs:element name="Skupina" type="Skupina"/>
+            <xs:element name="SpravceSbirky" type="SpravceSbirky"/>
+            <xs:element name="Subjekt" type="Subjekt"/>
+            <xs:element name="TechnikaPublic" type="TechnikaPublic"/>
+            <xs:element name="TypSbirkyPublic" type="TypSbirkyPublic"/>
+            <xs:element name="OaiId" type="OaiId"/>
+        </xs:sequence>
+    </xs:complexType>
     <xs:complexType name="Adresa">
         <xs:annotation>
             <xs:documentation>Adresa subjektu.</xs:documentation>
@@ -40,7 +73,6 @@
             <xs:element name="psc" type="xs:string" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="DalsiJmenoOsoby" type="DalsiJmenoOsoby"/>
     <xs:complexType name="DalsiJmenoOsoby">
         <xs:annotation>
             <xs:documentation>Další jména osoby (pseudonymy, skutečné jména osob, jména z různých manželství apod.)</xs:documentation>
@@ -54,7 +86,6 @@
             <xs:element name="typJmena" type="TypJmena" minOccurs="1" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Datace" type="Datace"/>
     <xs:complexType name="Datace">
         <xs:annotation>
             <xs:documentation>Datace pro vyjádření určitého času nebo časového období ve veřejném repozitáři.</xs:documentation>
@@ -103,7 +134,6 @@
             <xs:element name="dataceNazvemPublic" type="OaiId" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="DataceNazvemPublic" type="DataceNazvemPublic"/>
     <xs:complexType name="DataceNazvemPublic">
         <xs:annotation>
             <xs:documentation>Datace názvem - slovník veřejného repozitáře.</xs:documentation>
@@ -124,7 +154,6 @@
             <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Fond" type="Fond"/>
     <xs:complexType name="Fond">
         <xs:annotation>
             <xs:documentation>Fond - 3. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: skupina, podksupina1 až 3.</xs:documentation>
@@ -160,7 +189,6 @@
             <xs:element name="sbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Kontakt" type="Kontakt"/>
     <xs:complexType name="Kontakt">
         <xs:sequence>
             <xs:element name="email" type="xs:string" minOccurs="0" maxOccurs="2"/>
@@ -171,7 +199,6 @@
             <xs:element name="bankSpoj" type="xs:string" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="KontextovyDokument" type="KontextovyDokument"/>
     <xs:complexType name="KontextovyDokument">
         <xs:annotation>
             <xs:documentation>Metadata kontextového dokumentu (přílohy) připojeného k master záznamu (např. sbírkový předmět, subjekt, ... apod.)</xs:documentation>
@@ -200,7 +227,6 @@
             <xs:element name="publikacePredmetu" type="OaiId" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="LokalitaPublic" type="LokalitaPublic"/>
     <xs:complexType name="LokalitaPublic">
         <xs:annotation>
             <xs:documentation>Lokalita - slovník veřejného repozitáře.</xs:documentation>
@@ -216,7 +242,6 @@
             <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="MaterialPublic" type="MaterialPublic"/>
     <xs:complexType name="MaterialPublic">
         <xs:annotation>
             <xs:documentation>Materiál - slovník veřejného repozitáře.</xs:documentation>
@@ -232,7 +257,6 @@
             <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Obor" type="Obor"/>
     <xs:complexType name="Obor">
         <xs:annotation>
             <xs:documentation>Číselník oborů obsahuje obory sbírek a je naplněn údaji dle vyhlášky 275/2000 Sb. </xs:documentation>
@@ -255,7 +279,6 @@
             </xs:element>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Podsbirka" type="Podsbirka"/>
     <xs:complexType name="Podsbirka">
         <xs:annotation>
             <xs:documentation>Podsbírka - 2. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: fond, skupina, podksupina1 až 3. </xs:documentation>
@@ -279,7 +302,6 @@
             <xs:element name="Obor" type="Obor" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Podskupina1" type="Podskupina1"/>
     <xs:complexType name="Podskupina1">
         <xs:annotation>
             <xs:documentation>Podskupina1 - 5. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: podskupina2 a podskupina3.</xs:documentation>
@@ -317,7 +339,6 @@
             <xs:element name="fond" type="OaiId" minOccurs="1" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Podskupina2" type="Podskupina2"/>
     <xs:complexType name="Podskupina2">
         <xs:annotation>
             <xs:documentation>Podskupina2 - 6. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: podskupina3.</xs:documentation>
@@ -356,7 +377,6 @@
             <xs:element name="skupina" type="OaiId" minOccurs="1" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Podskupina3" type="Podskupina3"/>
     <xs:complexType name="Podskupina3">
         <xs:annotation>
             <xs:documentation>Podskupina3 - 7. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně již nejsou.</xs:documentation>
@@ -396,7 +416,6 @@
             <xs:element name="podskupina1" type="OaiId" minOccurs="1" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="PublikacePredmetu" type="PublikacePredmetu"/>
     <xs:complexType name="PublikacePredmetu">
         <xs:annotation>
             <xs:documentation>Karta sbírkového předmětu dostupná ve veřejném repozitáři Jednoznačné určení: - inventární číslo (SbirkovyPredmet.cislo) - správce sbírky (spravceSbirky)</xs:documentation>
@@ -625,7 +644,6 @@
             <xs:element name="podskupina3" type="OaiId" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="PublikaceTBiologie" type="PublikaceTBiologie"/>
     <xs:complexType name="PublikaceTBiologie">
         <xs:annotation>
             <xs:documentation>Specializace publikační karty pro přírodovědnou sbírku - živá příroda. Atribut typPredmetu musí být jeden z následujících: "BI", "BO", "ZO", "EN", "PL".</xs:documentation>
@@ -697,7 +715,6 @@
             </xs:extension>
         </xs:complexContent>
     </xs:complexType>
-    <xs:element name="PublikaceTFotofrafie" type="PublikaceTFotofrafie"/>
     <xs:complexType name="PublikaceTFotofrafie">
         <xs:annotation>
             <xs:documentation>Specializace publikační karty pro fotografickou sbírku. Atribut typPredmetu musí mít hodnotu "FO". </xs:documentation>
@@ -739,7 +756,6 @@
             </xs:extension>
         </xs:complexContent>
     </xs:complexType>
-    <xs:element name="PublikaceTNumismatika" type="PublikaceTNumismatika"/>
     <xs:complexType name="PublikaceTNumismatika">
         <xs:annotation>
             <xs:documentation>Specializace publikační karty pro numizmatickou sbírku. Atribut typPredmetu musí mít hodnotu "NU". </xs:documentation>
@@ -766,7 +782,6 @@
             </xs:extension>
         </xs:complexContent>
     </xs:complexType>
-    <xs:element name="PublikaceTVytvarneUmeni" type="PublikaceTVytvarneUmeni"/>
     <xs:complexType name="PublikaceTVytvarneUmeni">
         <xs:annotation>
             <xs:documentation>Specializace publikační karty pro sbírku výtvarného umění. Atribut typPredmetu musí mít hodnotu "VU". </xs:documentation>
@@ -798,7 +813,6 @@
             </xs:extension>
         </xs:complexContent>
     </xs:complexType>
-    <xs:element name="Role" type="Role"/>
     <xs:complexType name="Role">
         <xs:annotation>
             <xs:documentation>Role je vyjádření role určitého typu, kterou osoba zastává v pracovním, uměleckém, politickém ... apod. kontextu. </xs:documentation>
@@ -821,7 +835,6 @@
             </xs:element>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="RoleOsoby" type="RoleOsoby"/>
     <xs:complexType name="RoleOsoby">
         <xs:annotation>
             <xs:documentation>Role přiřazená osobě nebo instituci.</xs:documentation>
@@ -850,7 +863,6 @@
             <xs:element name="Role" type="Role" minOccurs="1" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Sbirka" type="Sbirka"/>
     <xs:complexType name="Sbirka">
         <xs:annotation>
             <xs:documentation>Sbírka, kterou má ve správě správce sbírky, a zároveň 1. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: podsbírka, fond, skupina, podskupina1 až 3.</xs:documentation>
@@ -887,7 +899,6 @@
             <xs:element name="typVlastnika" type="TypSpravceVlastnika" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Skupina" type="Skupina"/>
     <xs:complexType name="Skupina">
         <xs:annotation>
             <xs:documentation>Skupina - 4. úroveň systematického členění pro zatřídění sbírkového předmětu. Další úrovně jsou: podksupina1, podskupina2 a podskupina3.</xs:documentation>
@@ -924,7 +935,6 @@
             <xs:element name="podsbirka" type="OaiId" minOccurs="1" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="SpravceSbirky" type="SpravceSbirky"/>
     <xs:complexType name="SpravceSbirky">
         <xs:annotation>
             <xs:documentation>Správce sbírky muzejní povahy.</xs:documentation>
@@ -951,7 +961,6 @@
             <xs:element name="nadrizeny" type="OaiId" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="Subjekt" type="Subjekt"/>
     <xs:complexType name="Subjekt">
         <xs:annotation>
             <xs:documentation>Subjekt (actor) - fyzická nebo právnická osoba (osoba/instituce) související se sbírkovým předmětem, vystupující v něaké roli (autor, grafik, fotograf, ... ). </xs:documentation>
@@ -1085,7 +1094,6 @@
             <xs:element name="sbirka" type="OaiId" minOccurs="0" maxOccurs="1"/>
         </xs:sequence>
     </xs:complexType>
-    <xs:element name="TechnikaPublic" type="TechnikaPublic"/>
     <xs:complexType name="TechnikaPublic">
         <xs:annotation>
             <xs:documentation>Technika - slovník veřejného repozitáře.</xs:documentation>
@@ -1151,7 +1159,6 @@
             <xs:enumeration value="UNKNOWN"/>
         </xs:restriction>
     </xs:simpleType>
-    <xs:element name="TypSbirkyPublic" type="TypSbirkyPublic"/>
     <xs:complexType name="TypSbirkyPublic">
         <xs:annotation>
             <xs:documentation>Typ sbírky - slovník veřejného repozitáře.</xs:documentation>
@@ -1190,7 +1197,6 @@
             <xs:enumeration value="OZ"/>
         </xs:restriction>
     </xs:simpleType>
-    <xs:element name="OaiId" type="OaiId"/>
     <xs:complexType name="OaiId">
         <xs:annotation>
             <xs:documentation>Komplexní typu OaiId obsahuje hodnotu OAI identifikátoru, který byl záznamu v repozitáři přidělen.</xs:documentation>
