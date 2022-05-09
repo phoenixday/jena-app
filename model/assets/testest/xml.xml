@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<books
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.my.com/books complete.xsd
+            http://www.my.com/book  book.xsd"
+            xmlns="http://www.my.com/books"
+            xmlns:cs="http://www.my.com/book">
+    <cs:book author="Astrid Lindgren"
+             xmlns="" xsi:schemaLocation="http://www.my.com/book  book.xsd"/>
+</books>
+

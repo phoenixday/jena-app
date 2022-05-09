@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.my.com/books"
+           elementFormDefault="qualified">
+<!--    <import namespace="http://www.my.com/book" schemaLocation="book.xsd"/>-->
+    <element name="books">
+        <complexType>
+            <sequence>
+                <any namespace="##other" processContents="strict"/>
+            </sequence>
+        </complexType>
+    </element>
+</schema>
+

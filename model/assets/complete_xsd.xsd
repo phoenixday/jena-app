@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<xs:schema targetNamespace="http://www.openarchives.org/OAI/2.0/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="">
-    <xs:include schemaLocation="axmpr-v1.0.xsd"/>
-    <xs:include schemaLocation="OAI-PMH.xsd"/>
-</xs:schema>
