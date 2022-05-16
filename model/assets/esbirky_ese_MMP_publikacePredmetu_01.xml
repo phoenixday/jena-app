@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xmlns:europeana="http://www.europeana.eu/schemas/ese/"
-         xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns:dcterms="http://purl.org/dc/terms/"
-         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ OAI-PMH.xsd
-         http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
     <responseDate>2022-05-05T13:30:41Z</responseDate>
     <request metadataPrefix="ese" set="publikacePredmetu" verb="ListRecords">http://admin.esbirky.cz/w4m/oai/MMP</request>
     <ListRecords>
@@ -20,7 +14,7 @@
                 <setSpec>publikacePredmetu:S:1:A:BI</setSpec>
             </header>
             <metadata>
-                <europeana:record xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Sekera</dc:title>
                     <dc:description>Broušená plochá sekera s kónickým otvorem a souměrně zbroušeným ostřím </dc:description>
                     <dc:coverage>Lokalita neznámá</dc:coverage>
@@ -56,7 +50,7 @@
                 <setSpec>publikacePredmetu:S:1:A:BI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Sekera</dc:title>
                     <dc:description>Broušená plochá sekera, k týlu lichoběžníkovitě zúžená </dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -89,7 +83,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Záušnice</dc:title>
                     <dc:description>Záušnice pletená z drátu, s roztepanými, esovitě zahnutými konci </dc:description>
                     <dc:coverage>Želénky, část obce Zábrušany u Teplic</dc:coverage>
@@ -122,7 +116,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Náušnice</dc:title>
                     <dc:description>Náušnice s plnými a prolamovanými filigránovými košíčky s kuželovitým zakončením </dc:description>
                     <dc:coverage>Roztoky u Prahy</dc:coverage>
@@ -155,7 +149,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Udidlo</dc:title>
                     <dc:description>Udidlo – součást koňského postroje</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -188,7 +182,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Kónicky rozevřená nádoba s vysokou výdutí, pod okrajem na dvou stranách nesymetricky provrtané dva a tři otvory</dc:description>
                     <dc:coverage>Praha-Dejvice</dc:coverage>
@@ -221,7 +215,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Broušený hrot šípu </dc:description>
                     <dc:coverage>Praha-Veleslavín</dc:coverage>
@@ -257,7 +251,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Broušený hrot šípu </dc:description>
                     <dc:coverage>Praha-Veleslavín</dc:coverage>
@@ -293,7 +287,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Nádoba vejčitého tvaru, povrch zdobí ryté vodorovné linie, vlnice a tři řady vpichů uspořádaných do čtverce</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -326,7 +320,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Široká mísa se dvěma pohyblivými držadly, připevněnými palmetovitým kováním, okraj plasticky zdoben dvěma řadami perlovce a vejcovce</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -359,7 +353,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Pánev</dc:title>
                     <dc:description>Pánev s plochým držadlem zdobeným ptačími hlavičkami a rytým dekorem, uvnitř pocínovaná</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -392,7 +386,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Konvice s trojlaločnatým ústím a držadlem ve tvaru ženské postavy rukama objímající hrdlo, plastické zakončení spodku ucha má podobu hlavy Mainady</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -425,7 +419,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Keramická terina s hladkým povrchem a dvěma plastickými vodorovnými žebry na podhrdlí</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -458,7 +452,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Patera s válcovitou žebrovanou rukojetí a protilehlým pohyblivým uchem, uvnitř zdobená soustředně rytým dekorem s motivem růžice uprostřed</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -491,7 +485,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Ostře profilovaný koflík s leštěným povrchem</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -524,7 +518,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Miska na duté vysoké nožce zdobená řadami vodorovných rýžek a čtyřmi výčnělky na výduti </dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -560,7 +554,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Polokulovitá nádoba zdobená rytými girlandami </dc:description>
                     <dc:coverage>Praha-Vokovice</dc:coverage>
@@ -596,7 +590,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Nádoba s vodorovnými uchy na výduti a s oblým dnem, zdobená pásy rytých linií a vpichy </dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -632,7 +626,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:NASTR</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Šídlo</dc:title>
                     <dc:description>Oboustranně zahrocené čtyřhranné šídlo </dc:description>
                     <dc:coverage>Praha-Kobylisy</dc:coverage>
@@ -668,7 +662,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nánožník</dc:title>
                     <dc:description>Puklicovitý nánožník s výrazným plastickým šnekovitým dekorem, dvojdílný</dc:description>
                     <dc:coverage>Praha-Dejvice</dc:coverage>
@@ -701,7 +695,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nánožník</dc:title>
                     <dc:description>Puklicovitý nánožník s výrazným plastickým šnekovitým dekorem, dvojdílný</dc:description>
                     <dc:coverage>Praha-Dejvice</dc:coverage>
@@ -734,7 +728,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Jehlice</dc:title>
                     <dc:description>Část jehlice s rytou výzdobou na krčku</dc:description>
                     <dc:coverage>Praha-Bubeneč</dc:coverage>
@@ -767,7 +761,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Gombík</dc:title>
                     <dc:description>Bronzový pozlacený gombík s částí poutka a ornamentální výzdobou </dc:description>
                     <dc:coverage>Roztoky u Prahy</dc:coverage>
@@ -800,7 +794,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Gombík</dc:title>
                     <dc:description>Bronzový pozlacený gombík s poutkem a plastickým rostlinným dekorem </dc:description>
                     <dc:coverage>Roztoky u Prahy</dc:coverage>
@@ -833,7 +827,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Gombík</dc:title>
                     <dc:description>Bronzový pozlacený gombík s poutkem a plastickou ornamentální výzdobou </dc:description>
                     <dc:coverage>Roztoky u Prahy</dc:coverage>
@@ -866,7 +860,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Meč</dc:title>
                     <dc:description>Meč tzv. liptovského typu s plnou litou rukojetí</dc:description>
                     <dc:coverage>Praha-Vyšehrad</dc:coverage>
@@ -899,7 +893,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Džbán s leštěným povrchem a rohatým uchem (ansa lunata)</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -935,7 +929,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NASTR</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Lžička</dc:title>
                     <dc:description>Technická lžička s tyčinkovitou rukojetí </dc:description>
                     <dc:coverage>Praha-Troja</dc:coverage>
@@ -971,7 +965,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Spona</dc:title>
                     <dc:description>Jednodílná spona s plasticky zdobeným širokým lučíkem a profilovanou patkou, část vinutí a jehla chybí</dc:description>
                     <dc:coverage>Praha-Michle</dc:coverage>
@@ -1004,7 +998,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Spona</dc:title>
                     <dc:description>Jednodílná spona s klenutým, plasticky zdobeným lučíkem a profilovanou patkou, část vinutí a jehla chybí</dc:description>
                     <dc:coverage>Praha-Michle</dc:coverage>
@@ -1037,7 +1031,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Spona</dc:title>
                     <dc:description>Jednodílná spona s klenutým, plasticky zdobeným lučíkem a profilovanou patkou, část vinutí a jehla chybí</dc:description>
                     <dc:coverage>Praha-Michle</dc:coverage>
@@ -1070,7 +1064,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Jehlice</dc:title>
                     <dc:description>Část jehlice s rytou výzdobou na krčku</dc:description>
                     <dc:coverage>Praha-Čimice</dc:coverage>
@@ -1103,7 +1097,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Sekáč</dc:title>
                     <dc:description>Valounový sekáč s otlučenou týlní částí a oštípaným břitem </dc:description>
                     <dc:coverage>Praha-Troja</dc:coverage>
@@ -1139,7 +1133,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NASTR</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nůžky</dc:title>
                     <dc:description>Pérové ovčácké nůžky </dc:description>
                     <dc:coverage>Praha-Hostivař</dc:coverage>
@@ -1172,7 +1166,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Spona</dc:title>
                     <dc:description>Stříbrné pozlacené spony esovitého tvaru s reliéfní výzdobou </dc:description>
                     <dc:coverage>Praha-Hostivař</dc:coverage>
@@ -1205,7 +1199,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Spona</dc:title>
                     <dc:description>Stříbrné pozlacené spony s obdélníkovou záhlavní destičkou, krátkým nízko klenutým lučíkem s reliéfním žebrem a dvěma klikatkami a se zdobenou patkou zakončená zvířecí hlavičkou </dc:description>
                     <dc:coverage>Praha-Hostivař</dc:coverage>
@@ -1238,7 +1232,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Amfora se širokou výdutí a dvěma protilehlými uchy, v horní třetině zdobená plastickou přesekávanou páskou</dc:description>
                     <dc:coverage>Praha-Čimice</dc:coverage>
@@ -1274,7 +1268,7 @@
                 <setSpec>publikacePredmetu:S:1:A:malak</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Náhrdelník</dc:title>
                     <dc:description>Provrtané perleťové kroužky vyrobené z lastur velevruba</dc:description>
                     <dc:coverage>Praha-Čimice</dc:coverage>
@@ -1310,7 +1304,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Náhrdelník</dc:title>
                     <dc:description>Celkem 194 provrtaných zvířecích zubů (řezáky a špičáky psa domácího, vlka a lišky) a 36 jejich kostěných napodobenin</dc:description>
                     <dc:coverage>Praha-Čimice</dc:coverage>
@@ -1346,7 +1340,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Zvonek</dc:title>
                     <dc:description>Čtyřhranný zvonek s kruhovým držadlem </dc:description>
                     <dc:coverage>Praha-Veleslavín</dc:coverage>
@@ -1382,7 +1376,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Nízký koflík s širokým, vysoko vytaženým uchem</dc:description>
                     <dc:coverage>Praha-Lysolaje</dc:coverage>
@@ -1418,7 +1412,7 @@
                 <setSpec>publikacePredmetu:S:1:A:BI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Sekeromlat</dc:title>
                     <dc:description>Broušený vrtaný sekeromlat českého typu </dc:description>
                     <dc:coverage>Praha-Liboc</dc:coverage>
@@ -1451,7 +1445,7 @@
                 <setSpec>publikacePredmetu:S:1:A:BI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Sekeromlat</dc:title>
                     <dc:description>Broušený vrtaný sekeromlat s oblým týlem </dc:description>
                     <dc:coverage>Ořech</dc:coverage>
@@ -1484,7 +1478,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Pohár zvonovitého tvaru s hlazeným povrchem a jedním uchem </dc:description>
                     <dc:coverage>Slaný</dc:coverage>
@@ -1520,7 +1514,7 @@
                 <setSpec>publikacePredmetu:S:1:A:BI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Mlat</dc:title>
                     <dc:description>Broušený mlat se žlábkem</dc:description>
                     <dc:coverage>Praha-Lipence</dc:coverage>
@@ -1553,7 +1547,7 @@
                 <setSpec>publikacePredmetu:S:1:A:BI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Mlat</dc:title>
                     <dc:description>Broušený mlat se žlábkem</dc:description>
                     <dc:coverage>Praha-Lipence</dc:coverage>
@@ -1586,7 +1580,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Záušnice</dc:title>
                     <dc:description>Stříbrná záušnice s vícenásobnou esovitou kličkou </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1619,7 +1613,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Záušnice</dc:title>
                     <dc:description>Masívní bronzová stříbrem plátovaná záušnice se širokou esovitou kličkou </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1652,7 +1646,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Záušnice</dc:title>
                     <dc:description>Masívní bronzová stříbrem plátovaná záušnice se širokou esovitou kličkou </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1685,7 +1679,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Kvádrovitý korálek s okosenými rohy </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1718,7 +1712,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Plochý, oble zbroušený korálek </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1751,7 +1745,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Broušený dvojkónický korálek </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1784,7 +1778,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Tmavý korálek zdobený zkříženými bílými klikatkami a stylizovanými barevný květinovými motivy ve třech obvodových polích </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1817,7 +1811,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Podlouhlý korálek ze žluté formy polodrahokamu fluoritu </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1850,7 +1844,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Trojúhelníkový hrot šípu s řapem </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1883,7 +1877,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Protáhlý trojúhelníkový hrot šípu s částí řapu </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1916,7 +1910,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Listovitý hrot šípu se zbytky dřeva na řapu </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1949,7 +1943,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Hrot šípu zaškrceného listovitého tvaru, s částí řapu </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -1982,7 +1976,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NASTR</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nůž</dc:title>
                     <dc:description>Nůž s řapem se stopami dřevěné rukojeti </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2015,7 +2009,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Záušnice</dc:title>
                     <dc:description>Masívní stříbrem plátovaná záušnice s jednoduchou kličkou </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2048,7 +2042,7 @@
                 <setSpec>publikacePredmetu:S:1:JIRA:NASTR</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Kladivo</dc:title>
                     <dc:description>Kladivo s otvorem obdélného tvaru </dc:description>
                     <dc:coverage>Praha-Veleslavín</dc:coverage>
@@ -2084,7 +2078,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Záušnice</dc:title>
                     <dc:description>Masívní stříbrem plátovaná záušnice s jednoduchou kličkou </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2117,7 +2111,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Náušnice</dc:title>
                     <dc:description>Stříbrná náušnice se třemi košíčky z filigránového drátu na spodním oblouku, zakončeném očkem </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2150,7 +2144,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NASTR</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Ocílka</dc:title>
                     <dc:description>Ocílka lyrovitého tvaru – součást křesadla </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2183,7 +2177,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Kámen křesací</dc:title>
                     <dc:description>Pazourek ke křesadlu se stopami užívání </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2216,7 +2210,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Lahev zdobená na podhrdlí liniemi vodorovných, svislých a šikmých rýh </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2249,7 +2243,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Náhrdelník</dc:title>
                     <dc:description>Náhrdelník z broušených jantarových, kamenných a skleněných perel </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2282,7 +2276,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Korálek olivovitého tvaru lahvově hnědozelené barvy </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2315,7 +2309,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Korálek nepravidelně olivovitého tvaru lahvově hnědozelené barvy </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2348,7 +2342,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Korálek olivovitého tvaru lahvově hnědozelené barvy </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2381,7 +2375,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Mísa s vyhnutým okrajem horizontálně zdobená rýhou, hřebenovou vlnicí a třemi jemnými rýhami </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2414,7 +2408,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Kaptorga</dc:title>
                     <dc:description>Kaptorga (schránka na ostatky a amulety) vyrobená z tenkého plechu, se zdobenou přední stranou, uvnitř byl složen zbytek textilu </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2447,7 +2441,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Náhrdelník</dc:title>
                     <dc:description>Náhrdelník z jantarových a skleněných kulovitých, dvojkónických nebo osmihranných korálků, skleněné korálky jsou zelené, šedé a jeden modrý, některé zdobené klikatkami z tenkých vláken </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2480,7 +2474,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Vejčitý hrnec zdobený třemi jednoduchými horizontálními liniemi překrytými nepravidelnou strmější vlnicí </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2513,7 +2507,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Korálek</dc:title>
                     <dc:description>Devět různobarevných oblých sekaných korálků </dc:description>
                     <dc:coverage>Praha-Lahovice</dc:coverage>
@@ -2546,7 +2540,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Baňatá amfora s kónicky zůženým hrdlem a výzdobou v podobě jemně rytých šrafovaných trojúhelníků a kosočtverců</dc:description>
                     <dc:coverage>Praha-Suchdol</dc:coverage>
@@ -2579,7 +2573,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Baňatá nádoba s nízkým odsazeným hrdlem, na uchu a na hrdle zdobená malovanými svislými pásy a na plecích šrafovanými trojúhelníky</dc:description>
                     <dc:coverage>Praha-Suchdol</dc:coverage>
@@ -2612,7 +2606,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Široká mísa uvnitř zdobená vlešťovanými hvězdicemi, šrafovanými pásy a vhlazovanými trojúhelníky</dc:description>
                     <dc:coverage>Praha-Suchdol</dc:coverage>
@@ -2645,7 +2639,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Mírně esovitě profilovaný talíř zdobený klikatými a šikmými svazky vhlazovaných linií</dc:description>
                     <dc:coverage>Praha-Suchdol</dc:coverage>
@@ -2678,7 +2672,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Forma</dc:title>
                     <dc:description>Část formy na odlévání bronzových předmětů </dc:description>
                     <dc:coverage>Praha-Stodůlky</dc:coverage>
@@ -2711,7 +2705,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Džbán s rozevřeným hrdlem a převýšeným rohatým uchem¨(typu ansa lunata/cornuta) zdobeným podélnými žlábky u vnějšího okraje</dc:description>
                     <dc:coverage>Praha-Kbely</dc:coverage>
@@ -2744,7 +2738,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Džbán s s rozevřeným hrdlem a převýšeným rohatým uchem (typu ansa lunata/cornuta)</dc:description>
                     <dc:coverage>Praha-Kbely</dc:coverage>
@@ -2777,7 +2771,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Džbán s rozevřeným hrdlem, se svislými žebry na těle a s převýšeným rohatým uchem¨(typu ansa lunata/cornuta) zdobeným podélnými žlábky u vnějšího okraje</dc:description>
                     <dc:coverage>Praha-Kbely</dc:coverage>
@@ -2810,7 +2804,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -2843,7 +2837,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -2876,7 +2870,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -2909,7 +2903,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -2945,7 +2939,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -2981,7 +2975,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru, hrot odlomen</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -3017,7 +3011,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Závěsek</dc:title>
                     <dc:description>Broušený plochý závěsek tvaru rovnoramenného trojúhelníku s otvorem uprostřed</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -3050,7 +3044,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu trojúhelníkovitého tvaru</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -3083,7 +3077,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu s křidélky</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -3116,7 +3110,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu s křidélky</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -3149,7 +3143,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Hrot šípu</dc:title>
                     <dc:description>Štípaný hrot šípu s křidélky</dc:description>
                     <dc:coverage>Praha-Jinonice</dc:coverage>
@@ -3182,7 +3176,7 @@
                 <setSpec>publikacePredmetu:S:1:A:BI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Bulava</dc:title>
                     <dc:description>Broušená bulava s kruhovým vrtaným otvorem</dc:description>
                     <dc:coverage>Praha-Hostivař</dc:coverage>
@@ -3218,7 +3212,7 @@
                 <setSpec>publikacePredmetu:S:1:A:NADOB</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Nádoba</dc:title>
                     <dc:description>Kónická mísa s tordovaným okrajem, uvnitř na dně koncentrické žlábky, na stěnách kolmé a obloukovité pásy složené ze tří úzkých žlábků</dc:description>
                     <dc:coverage>Praha-Modřany</dc:coverage>
@@ -3251,7 +3245,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ostat</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Bulava</dc:title>
                     <dc:description>Polotovar bulavy nepravidelně kulovitého tvaru, středový otvor je vrtaný z obou stran, ale nedokončený.</dc:description>
                     <dc:coverage>Praha-Ruzyně</dc:coverage>
@@ -3284,7 +3278,7 @@
                 <setSpec>publikacePredmetu:S:1:A:SI</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Pila</dc:title>
                     <dc:description>Štípaný nástroj - pilka s jednostrannou retuší podélných stran</dc:description>
                     <dc:coverage>Praha-Stodůlky</dc:coverage>
@@ -3317,7 +3311,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Záušnice</dc:title>
                     <dc:description>Velká okrouhlá záušnice stočená z dvojitého drátu</dc:description>
                     <dc:coverage>Praha-Stodůlky</dc:coverage>
@@ -3353,7 +3347,7 @@
                 <setSpec>publikacePredmetu:S:1:A:ozdob</setSpec>
             </header>
             <metadata>
-                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ ESE-V3.4.xsd">
+                <europeana:record xmlns="" xsi:schemaLocation="http://www.europeana.eu/schemas/ese/ http://www.europeana.eu/schemas/ese/ESE-V3.4.xsd">
                     <dc:title>Jehlice</dc:title>
                     <dc:description>Jehlice s kónickou hlavicí a očkem, na krčku je rytá výzdoba větvičkovitým vzorem</dc:description>
                     <dc:coverage>Praha-Stodůlky</dc:coverage>

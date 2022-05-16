@@ -6,6 +6,7 @@
             xmlns="http://www.my.com/books"
             xmlns:cs="http://www.my.com/book">
     <cs:book author="Astrid Lindgren"
-             xmlns="" xsi:schemaLocation="http://www.my.com/book  book.xsd"/>
+             xmlns:cs="http://www.my.com/book"
+             xsi:schemaLocation="http://www.my.com/book  book.xsd"/>
 </books>
 

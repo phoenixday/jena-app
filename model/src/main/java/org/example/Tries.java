@@ -6,6 +6,53 @@ import org.apache.jena.riot.RDFDataMgr;
 
 //TODO: delete
 public class Tries {
+
+    static void tryToTransformESEToRDFThroughOntmalizer() {
+        Transformer transformer = new TransformerImpl();
+        transformer.convertXMLToRDF("model/assets/ese_complete.xsd",
+                "model/assets/esbirky_ese_MMP_publikacePredmetu_01.xml",
+                "model/assets/publikace_predmetu_ese.rdf");
+    }
+
+    static void transformBookToRDF() {
+        Transformer transformer = new TransformerImpl();
+        transformer.convertXSDToRDF("model/assets/testest/complete.xsd",
+                "model/assets/testest/books.rdf");
+        transformer.convertXMLToRDF("model/assets/testest/complete.xsd",
+        "model/assets/testest/xml.xml",
+        "model/assets/testest/books.rdf");
+        Model model = RDFDataMgr.loadModel("model/assets/testest/books.rdf");
+        writeModel(model);
+    }
+
+    /**
+     * Writes the triples(statements) stored in the model
+     * @param model RDF data already stored in triplestore
+     */
+    static void writeModel(Model model) {
+        System.out.println("======= Write all triples stored from RDF (data.rdf) =======");
+        // list the statements in the Model
+        StmtIterator iter = model.listStatements();
+        // print out the predicate, subject and object of each statement
+        while (iter.hasNext()) {
+            Statement stmt = iter.nextStatement();  // get next statement
+            Resource subject = stmt.getSubject();     // get the subject
+            Property predicate = stmt.getPredicate();   // get the predicate
+            RDFNode object = stmt.getObject();      // get the object
+
+            System.out.println("subject: " + subject.toString());
+            System.out.println("predicate: " + predicate.toString());
+            System.out.print("object: ");
+            if (object instanceof Resource) {
+                System.out.println(object);
+            } else {
+                // object is a literal
+                System.out.println(object.toString() + " (literal)");
+            }
+            System.out.println();
+        }
+    }
+
     static void firstTryOnMyBookSchema() {
         //        transformer.convertXMLToRDF("model/assets/testest/axmpr_complete.xsd",
 //                "model/assets/testest/xml.xml",

@@ -8,9 +8,9 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
   xml:base="http://www.srdc.com.tr/ontmalizer/instance">
-  <books:books rdf:ID="INS9110971_books_1">
+  <books:books rdf:ID="INS5397309_books_1">
     <books:book>
-      <j.0:book rdf:ID="INS9110971_book_1">
+      <j.0:book rdf:ID="INS5397309_book_1">
         <books:author>Astrid Lindgren</books:author>
       </j.0:book>
     </books:book>

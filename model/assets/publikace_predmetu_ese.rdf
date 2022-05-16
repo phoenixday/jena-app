@@ -1,0 +1,82 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.europeana.eu/schemas/ese/#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns="http://www.openarchives.org/OAI/2.0/#"
+    xmlns:dtype="http://www.srdc.com.tr/ontmalizer#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.1="http://purl.org/dc/elements/1.1/#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:j.2="http://purl.org/dc/terms/#"
+  xml:base="http://www.srdc.com.tr/ontmalizer/instance">
+  <OAI-PMH rdf:ID="INS6074937_OAI-PMH_1">
+    <ListRecords>
+      <ListRecordsType rdf:ID="INS6074937_ListRecordsType_1">
+        <record>
+          <recordType rdf:ID="INS6074937_recordType_1">
+            <metadata>
+              <metadataType rdf:ID="INS6074937_metadataType_1">
+                <record>
+                  <j.0:record rdf:ID="INS6074937_record_1">
+                    <isShownAt rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+                    >https://www.esbirky.cz/detail/39861852</isShownAt>
+                    <identifier>
+                      <j.1:identifier rdf:ID="INS6074937_identifier_1"/>
+                    </identifier>
+                    <type rdf:datatype="http://www.europeana.eu/schemas/ese/#nullDatatype"
+                    >IMAGE</type>
+                    <temporal>
+                      <j.2:temporal rdf:ID="INS6074937_temporal_1"/>
+                    </temporal>
+                    <isShownBy rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+                    >https://www.esbirky.cz/img.php?id=40195580</isShownBy>
+                    <date>
+                      <j.1:date rdf:ID="INS6074937_date_2"/>
+                    </date>
+                    <description>
+                      <j.1:description rdf:ID="INS6074937_description_1"/>
+                    </description>
+                    <dataProvider>Muzeum hlavního města Prahy</dataProvider>
+                    <rights rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+                    >http://rightsstatements.org/vocab/InC/1.0/</rights>
+                    <provider>eSbírky</provider>
+                    <relation>
+                      <j.1:relation rdf:ID="INS6074937_relation_1"/>
+                    </relation>
+                    <created>
+                      <j.2:created rdf:ID="INS6074937_created_1"/>
+                    </created>
+                    <date>
+                      <j.1:date rdf:ID="INS6074937_date_3"/>
+                    </date>
+                    <extent>
+                      <j.2:extent rdf:ID="INS6074937_extent_1"/>
+                    </extent>
+                    <rights>
+                      <j.1:rights rdf:ID="INS6074937_rights_1"/>
+                    </rights>
+                    <medium>
+                      <j.2:medium rdf:ID="INS6074937_medium_1"/>
+                    </medium>
+                    <title>
+                      <j.1:title rdf:ID="INS6074937_title_1"/>
+                    </title>
+                    <coverage>
+                      <j.1:coverage rdf:ID="INS6074937_coverage_1"/>
+                    </coverage>
+                    <date>
+                      <j.1:date rdf:ID="INS6074937_date_1"/>
+                    </date>
+                    <spatial>
+                      <j.2:spatial rdf:ID="INS6074937_spatial_1"/>
+                    </spatial>
+                  </j.0:record>
+                </record>
+              </metadataType>
+            </metadata>
+          </recordType>
+        </record>
+      </ListRecordsType>
+    </ListRecords>
+  </OAI-PMH>
+</rdf:RDF>

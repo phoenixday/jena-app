@@ -1,5 +1,7 @@
 <!-- added targetNamespace and xmlns, element axmpr-->
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://api.museion.cz/schema/axmpr" xmlns="https://api.museion.cz/schema/axmpr">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://api.museion.cz/schema/axmpr"
+           xmlns="https://api.museion.cz/schema/axmpr">
     <xs:annotation>
         <xs:documentation>Package pro generování XML schématu axmpr verze 1.0</xs:documentation>
     </xs:annotation>

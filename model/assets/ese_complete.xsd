@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.openarchives.org/OAI/2.0/">
-    <import namespace="http://www.europeana.eu/schemas/ese/" schemaLocation="ESE-V3.4.xsd"/>
-    <include schemaLocation="OAI-PMH.xsd"/>
-</schema>
